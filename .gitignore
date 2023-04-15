@@ -1,0 +1,7 @@
+**/LEPL1402.iml
+**/.idea/**
+**/out/**
+**/libs/**
+**/target/**
+**/pom.xml
+src/ParallelCounting/ParallelCounting.iml
